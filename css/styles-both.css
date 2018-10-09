@@ -1,0 +1,27 @@
+h1 {
+  font-family: fantasy;
+  color: #abc98f;
+}
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  color: purple;
+  text-align: center;
+
+}
+
+ul {
+  font-size: 10px;
+}
+
+ol {
+  font-size: 50px;
+}
+
+img {
+  width: 200px;
+}
